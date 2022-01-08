@@ -1,4 +1,1 @@
-# tommy-props
-
-
-Built on the QBCore framework.
+Built on the QBCore Framework.
